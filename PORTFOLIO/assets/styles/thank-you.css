@@ -1,0 +1,11 @@
+.thank-you {
+    display: flex;
+    width: 95%;
+    height: 90vh;
+    background: url(../images/thankyou.png) no-repeat;
+    align-items: center;
+    background-size: 45%;
+    background-position: right;
+    padding: 130px;
+    margin-top: 40px;
+}

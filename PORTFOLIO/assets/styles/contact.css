@@ -1,0 +1,29 @@
+.contact-me {
+    display: flex;
+    width: 90%;
+    height: 90vh;
+    background: url(../images/location.png) no-repeat;
+    align-items: center;
+    background-position: right;
+    background-size: 40%;
+    padding: 130px;
+    margin-top: 40px;
+}
+
+textarea{
+    font-family: sans-serif;
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    font-size: 16px;
+    box-sizing: border-box;
+    resize: vertical;
+    margin-bottom: 10px;
+}
+
+label{
+    font-size: 20px;
+    color: #555;
+    margin-bottom: 10px;
+}
